@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Alexandre 👋</h1>
 <p align="center">J’aime transformer des idées en outils concrets, simples à utiliser et agréables à voir. 🚀</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Étudiant+full-stack+chez+Holberton;Créateur+d’outils+utiles+et+propres;En+recherche+d’une+alternance+full-stack+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Étudiant+Full-Stack+chez+Holberton;Créateur+d’outils+utiles+et+propres;En+recherche+d’une+alternance+Full-Stack+🔥" alt="Typing SVG" />
 </p>
 
 
